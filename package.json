@@ -1,0 +1,11 @@
+{
+  "name": "echelos",
+  "version": "0.1.0",
+  "description": "Echelos",
+  "scripts": {
+    "api": "",
+    "web": ""
+  },
+  "author": "Ahmet Esad Barut",
+  "license": "BSD-3-Clause"
+}
